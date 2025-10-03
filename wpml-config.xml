@@ -1,0 +1,46 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_news-event-pro">
+			<key name="global_button_text">
+                <key name="text" />
+            </key>
+            <key name="ticker_news_title">
+                <key name="text" />
+            </key>
+            <key name="main_banner_comments_tab_title">
+                <key name="text" />
+            </key>
+            <key name="main_banner_latest_tab_title">
+                <key name="text" />
+            </key>
+            <key name="main_banner_popular_tab_title">
+                <key name="text" />
+            </key>
+            <key name="main_banner_popular_posts_title" />
+            <key name="opinion_section_title" />
+            <key name="bottom_footer_site_info" />
+            <key name="single_post_related_posts_title" />
+            <key name="error_page_page_title" />
+            <key name="error_page_page_content" />
+            <key name="error_page_button_label" />
+            <key name="search_page_prefix_title" />
+            <key name="search_page_no_result_title" />
+            <key name="search_page_content" />
+            <key name="full_width_blocks">
+                <key name="*"/>
+            </key>
+            <key name="leftc_rights_blocks">
+                <key name="*"/>
+            </key>
+            <key name="lefts_rightc_blocks">
+                <key name="*"/>
+            </key>
+            <key name="bottom_full_width_blocks">
+                <key name="*"/>
+            </key>
+            <key name="opinons_items">
+                <key name="*"/>
+            </key>
+		</key>
+	</admin-texts>
+</wpml-config>
